@@ -2,6 +2,8 @@
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
+For [Github](https://github.com/nammahari/cit-hackers.git)
+
 ## Commands
 
 * `mkdocs new [dir-name]` - Create a new project.
